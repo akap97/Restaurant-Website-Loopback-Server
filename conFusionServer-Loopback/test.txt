@@ -1,0 +1,8 @@
+{
+"username":"user1",
+"password":"password",
+"firstname":"aryan",
+"lastname":"kapoor",
+"image":"",
+"email":"aryan@gmail.com"
+}
